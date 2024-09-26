@@ -1,5 +1,6 @@
 // Function Statement
 
-function a(){
+function a() {
     console.log('Function Statement')
 }
+a();
